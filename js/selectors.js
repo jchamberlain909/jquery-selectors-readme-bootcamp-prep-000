@@ -15,4 +15,4 @@ function divSelector(){
   return $('.pics');
 }
 
-const firstListItem = () => ($('ul#pic-list:first-child'));
+function firstListItem = () => ($('ul#pic-list:first-child'));
